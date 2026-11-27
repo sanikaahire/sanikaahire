@@ -7,11 +7,11 @@
 
 ## 👩‍💻 About Me
 
-I'm an Information Technology engineering graduate who enjoys building useful, user-friendly applications. I work with Java, Python, JavaScript and SQL, and have built projects using React, Flask, JavaFX, MySQL and Firebase.
+I'm an Information Technology engineering graduate building useful, user-friendly applications. I work with Java, Python, JavaScript and SQL, and have built projects using React, Flask, JavaFX, MySQL and Firebase.
 
-🚀 My focus is full-stack and backend development, with an interest in AI-powered applications.
+🚀 full-stack and backend development, with an interest in AI-powered applications.
 
-💡 I care about writing clean code and solving real-world problems.
+💡  writing clean code and solving real-world problems.
 
 📫 **Email:** sanikaahire.7@gmail.com
 
@@ -29,9 +29,9 @@ I'm an Information Technology engineering graduate who enjoys building useful, u
 - 👓 Eye-Care Web Application (internship)
 
 
-## 🚀 Tech Stack
 
----
+
+## 🚀 Tech Stack
 
 ### 💻 Programming Languages
 - Java
